@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetaHome</string>
+    <string name="dialog_select_title">Select Item</string>
+    <string name="dialog_replace_title">Remove Item ?</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+</resources>
